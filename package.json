@@ -36,7 +36,7 @@
     "semantic-release": "15.13.3"
   },
   "dependencies": {
-    "@skan-io/eslint-config-base": "1.0.0",
+    "@skan-io/eslint-config-base": "1.0.3",
     "eslint-plugin-react": "^7.12.4"
   },
   "config": {
