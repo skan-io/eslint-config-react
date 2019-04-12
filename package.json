@@ -27,6 +27,7 @@
     "eslint": ">= 5"
   },
   "devDependencies": {
+    "@skan-io/eslint-config-base": "1.1.0",
     "babel-eslint": "10.0.1",
     "commitizen": "3.0.5",
     "cz-conventional-changelog": "2.1.0",
@@ -36,7 +37,6 @@
     "semantic-release": "15.13.3"
   },
   "dependencies": {
-    "@skan-io/eslint-config-base": "1.0.3",
     "eslint-plugin-react": "^7.12.4"
   },
   "config": {
